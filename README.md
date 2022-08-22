@@ -1,6 +1,8 @@
 # Bot-Detection-on-Online-Action-Platform
 Apply Feature Engineering on Classification Case in Python 
 
+Source: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data
+
 This Prediction Challenge is modelled after the 2015 Facebook Recruitment Challenge, a prediction competition jointly held by Facebook and Kaggle. 
 Those whom trail-blazed their way to the top of the leaderboard each earned themselves an opportunity at interviewing for a role as a software engineer at Facebook, working on world-class Machine Learning problems.
 In this competition, you'll be chasing down robots for an online auction site. 
