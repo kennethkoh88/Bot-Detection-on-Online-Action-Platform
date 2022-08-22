@@ -25,13 +25,13 @@ train.csv - the training set from the bidder dataset
 test.csv - the test set from the bidder dataset
 sample-submission.csv - a sample submission file in the correct format
 bids.csv - the bid dataset
-Data fields
-For the bidder dataset
 
+Data fields For the bidder dataset
 bidder_id – Unique identifier of a bidder.
 payment_account – Payment account associated with a bidder. These are obfuscated to protect privacy.
 address – Mailing address of a bidder. These are obfuscated to protect privacy.
 outcome – Label of a bidder indicating whether or not it is a robot. Value 1.0 indicates a robot, where value 0.0 indicates human.
+
 The outcome was half hand labeled, half stats-based. There are two types of "bots" with different levels of proof:
 1. Bidders who are identified as bots/fraudulent with clear proof. Their accounts were banned by the auction site.
 2. Bidder who may have just started their business/clicks or their stats exceed from system wide average. There are no clear proof that they are bots.
