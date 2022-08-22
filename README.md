@@ -1,4 +1,4 @@
-# Bot-Detection-on-Online-Action-Platform
+# Bot Detection on Online Action Platform
 Apply Feature Engineering on Classification Case in Python 
 
 Source: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data
