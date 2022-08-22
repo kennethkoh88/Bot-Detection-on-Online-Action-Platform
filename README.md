@@ -1,6 +1,8 @@
 # Bot Detection on Online Action Platform
 Apply Feature Engineering on Classification Case in Python 
 
+Result: Managed to perform Score of 0.92684 on Global Kaggle private Leaderboard with a model accuracy of 94.4%, AUC of 0.5903. 
+
 Source: https://www.kaggle.com/c/facebook-recruiting-iv-human-or-bot/data
 
 This Prediction Challenge is modelled after the 2015 Facebook Recruitment Challenge, a prediction competition jointly held by Facebook and Kaggle. 
